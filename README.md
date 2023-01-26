@@ -1,3 +1,7 @@
+## Build Project
+
+./mvnw clean install -DskipTests=true
+
 ## Download KAKFA
 
 https://downloads.apache.org/kafka/3.3.2/kafka-3.3.2-src.tgz
